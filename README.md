@@ -4,4 +4,4 @@ I am Pu Fanyi, a student studying [Data Science and Artificial Intelligence](htt
 
 I have blog at [pufanyi.github.io](https://pufanyi.github.io), sharing some of my learning experience. :collision:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pufanyi)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pufanyi)
